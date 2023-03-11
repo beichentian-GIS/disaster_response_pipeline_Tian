@@ -56,7 +56,7 @@ The project is consisted of three components:
     - Outputs results on the test set
     - Exports the final model as a pickle file
 
-3. **Flask Web App:** enables users to type in disaster-related messages to explore which sentiment categories are related with the inputs.
+3. **Flask Web App:** enables users to type in disaster-related messages to explore which sentiment categories have strong relevance with inputs.
 
 
 ## File Structure <a name="structure"></a>

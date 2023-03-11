@@ -32,7 +32,7 @@ Python libraries needed for the analysis:
 
 
 ## Project Motivation <a name="motivation"></a>
-The objective of the project is to apply a machine learning model to classify disaster-realted messages into sentiment categories. 
+The objective of the project is to apply a machine learning model to classify disaster-related messages into sentiment categories. 
 One message can possibly belong to one or multiple sentiment categories.
 The data of the project was provided by an AI company formerly named [Figure Eight](https://appen.com/) (now Appen).  
 In the web app, classification results/ caegories are obtained whenever user input a message.

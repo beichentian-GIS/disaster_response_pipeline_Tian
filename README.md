@@ -70,8 +70,8 @@ The project is consisted of three components:
 			- \templates
 				- master.html: main page of the web app 
 				- go.html: result web page
-				- css: folder containing css styling scripts for webpage rendering
-				- js: folder containing javascript scripts for webpage interactions
+				- css: folder containing css styling codes for webpage rendering
+				- js: folder containing javascript codes for webpage interactions
 		- \data
 			- disaster_categories.csv: categories dataset
 			- disaster_messages.csv: messages dataset

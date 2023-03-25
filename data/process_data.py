@@ -57,7 +57,9 @@ def clean_data(df):
      
     # Remove duplicates
     df.drop_duplicates(inplace=True)
-     
+    # Drop "related-2" records
+    df.query("related != 2")
+    
     return df
 
 
